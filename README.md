@@ -1,0 +1,1 @@
+For this project, I am creating a simple pop up modal that shows info once clicked on a button
